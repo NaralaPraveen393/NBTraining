@@ -1,0 +1,11 @@
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\obj\Debug\Project4Day1.csproj.AssemblyReference.cache
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\obj\Debug\Project4Day1.csproj.SuggestedBindingRedirects.cache
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\obj\Debug\Project4Day1.Form1.resources
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\obj\Debug\Project4Day1.Properties.Resources.resources
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\obj\Debug\Project4Day1.csproj.GenerateResource.cache
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\obj\Debug\Project4Day1.csproj.CoreCompileInputs.cache
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\bin\Debug\Project4Day1.exe.config
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\bin\Debug\Project4Day1.exe
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\bin\Debug\Project4Day1.pdb
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\obj\Debug\Project4Day1.exe
+C:\Nbday1\dotnet day1 project\Project4Day1\Project4Day1\obj\Debug\Project4Day1.pdb

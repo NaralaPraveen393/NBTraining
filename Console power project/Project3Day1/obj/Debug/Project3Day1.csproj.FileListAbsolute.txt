@@ -1,0 +1,8 @@
+C:\Nbday1\dotnet day1 project\Project3Day1\Project3Day1\obj\Debug\Project3Day1.csproj.AssemblyReference.cache
+C:\Nbday1\dotnet day1 project\Project3Day1\Project3Day1\obj\Debug\Project3Day1.csproj.SuggestedBindingRedirects.cache
+C:\Nbday1\dotnet day1 project\Project3Day1\Project3Day1\obj\Debug\Project3Day1.csproj.CoreCompileInputs.cache
+C:\Nbday1\dotnet day1 project\Project3Day1\Project3Day1\bin\Debug\Project3Day1.exe.config
+C:\Nbday1\dotnet day1 project\Project3Day1\Project3Day1\bin\Debug\Project3Day1.exe
+C:\Nbday1\dotnet day1 project\Project3Day1\Project3Day1\bin\Debug\Project3Day1.pdb
+C:\Nbday1\dotnet day1 project\Project3Day1\Project3Day1\obj\Debug\Project3Day1.exe
+C:\Nbday1\dotnet day1 project\Project3Day1\Project3Day1\obj\Debug\Project3Day1.pdb
