@@ -1,0 +1,7 @@
+C:\NBHtraining\dotnet day2 project\Consoleprint1to10\Consoleprint1to10\bin\Debug\Consoleprint1to10.exe.config
+C:\NBHtraining\dotnet day2 project\Consoleprint1to10\Consoleprint1to10\bin\Debug\Consoleprint1to10.exe
+C:\NBHtraining\dotnet day2 project\Consoleprint1to10\Consoleprint1to10\bin\Debug\Consoleprint1to10.pdb
+C:\NBHtraining\dotnet day2 project\Consoleprint1to10\Consoleprint1to10\obj\Debug\Consoleprint1to10.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day2 project\Consoleprint1to10\Consoleprint1to10\obj\Debug\Consoleprint1to10.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day2 project\Consoleprint1to10\Consoleprint1to10\obj\Debug\Consoleprint1to10.exe
+C:\NBHtraining\dotnet day2 project\Consoleprint1to10\Consoleprint1to10\obj\Debug\Consoleprint1to10.pdb

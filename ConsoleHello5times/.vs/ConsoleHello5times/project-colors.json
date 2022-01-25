@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7f42220d-dfa8-4069-9a29-ccc85b63e06e": {
+      "ProjectGuid": "7f42220d-dfa8-4069-9a29-ccc85b63e06e",
+      "DisplayName": "ConsoleHello5times",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

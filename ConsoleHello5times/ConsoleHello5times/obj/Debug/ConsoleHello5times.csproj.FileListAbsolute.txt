@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day2 project\ConsoleHello5times\ConsoleHello5times\bin\Debug\ConsoleHello5times.exe.config
+C:\NBHtraining\dotnet day2 project\ConsoleHello5times\ConsoleHello5times\bin\Debug\ConsoleHello5times.exe
+C:\NBHtraining\dotnet day2 project\ConsoleHello5times\ConsoleHello5times\bin\Debug\ConsoleHello5times.pdb
+C:\NBHtraining\dotnet day2 project\ConsoleHello5times\ConsoleHello5times\obj\Debug\ConsoleHello5times.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day2 project\ConsoleHello5times\ConsoleHello5times\obj\Debug\ConsoleHello5times.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day2 project\ConsoleHello5times\ConsoleHello5times\obj\Debug\ConsoleHello5times.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day2 project\ConsoleHello5times\ConsoleHello5times\obj\Debug\ConsoleHello5times.exe
+C:\NBHtraining\dotnet day2 project\ConsoleHello5times\ConsoleHello5times\obj\Debug\ConsoleHello5times.pdb
