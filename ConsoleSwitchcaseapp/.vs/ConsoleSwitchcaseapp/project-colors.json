@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1dd7150-cca0-4121-9c00-2186b6c53783": {
+      "ProjectGuid": "e1dd7150-cca0-4121-9c00-2186b6c53783",
+      "DisplayName": "ConsoleSwitchcaseapp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

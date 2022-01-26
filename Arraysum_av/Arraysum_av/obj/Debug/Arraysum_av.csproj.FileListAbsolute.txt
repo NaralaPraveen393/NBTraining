@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Arraysum_av\Arraysum_av\bin\Debug\Arraysum_av.exe.config
+C:\NBHtraining\dotnet day1 project\Arraysum_av\Arraysum_av\bin\Debug\Arraysum_av.exe
+C:\NBHtraining\dotnet day1 project\Arraysum_av\Arraysum_av\bin\Debug\Arraysum_av.pdb
+C:\NBHtraining\dotnet day1 project\Arraysum_av\Arraysum_av\obj\Debug\Arraysum_av.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Arraysum_av\Arraysum_av\obj\Debug\Arraysum_av.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Arraysum_av\Arraysum_av\obj\Debug\Arraysum_av.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Arraysum_av\Arraysum_av\obj\Debug\Arraysum_av.exe
+C:\NBHtraining\dotnet day1 project\Arraysum_av\Arraysum_av\obj\Debug\Arraysum_av.pdb

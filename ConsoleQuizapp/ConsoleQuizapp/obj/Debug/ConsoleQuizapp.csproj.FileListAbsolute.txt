@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\ConsoleQuizapp\ConsoleQuizapp\obj\Debug\ConsoleQuizapp.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\ConsoleQuizapp\ConsoleQuizapp\obj\Debug\ConsoleQuizapp.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\ConsoleQuizapp\ConsoleQuizapp\obj\Debug\ConsoleQuizapp.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\ConsoleQuizapp\ConsoleQuizapp\bin\Debug\ConsoleQuizapp.exe.config
+C:\NBHtraining\dotnet day1 project\ConsoleQuizapp\ConsoleQuizapp\bin\Debug\ConsoleQuizapp.exe
+C:\NBHtraining\dotnet day1 project\ConsoleQuizapp\ConsoleQuizapp\bin\Debug\ConsoleQuizapp.pdb
+C:\NBHtraining\dotnet day1 project\ConsoleQuizapp\ConsoleQuizapp\obj\Debug\ConsoleQuizapp.exe
+C:\NBHtraining\dotnet day1 project\ConsoleQuizapp\ConsoleQuizapp\obj\Debug\ConsoleQuizapp.pdb

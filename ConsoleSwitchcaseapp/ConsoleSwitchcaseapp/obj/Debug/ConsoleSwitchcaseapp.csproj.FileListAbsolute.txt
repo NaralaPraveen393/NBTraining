@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\ConsoleSwitchcaseapp\ConsoleSwitchcaseapp\bin\Debug\ConsoleSwitchcaseapp.exe.config
+C:\NBHtraining\dotnet day1 project\ConsoleSwitchcaseapp\ConsoleSwitchcaseapp\bin\Debug\ConsoleSwitchcaseapp.exe
+C:\NBHtraining\dotnet day1 project\ConsoleSwitchcaseapp\ConsoleSwitchcaseapp\bin\Debug\ConsoleSwitchcaseapp.pdb
+C:\NBHtraining\dotnet day1 project\ConsoleSwitchcaseapp\ConsoleSwitchcaseapp\obj\Debug\ConsoleSwitchcaseapp.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\ConsoleSwitchcaseapp\ConsoleSwitchcaseapp\obj\Debug\ConsoleSwitchcaseapp.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\ConsoleSwitchcaseapp\ConsoleSwitchcaseapp\obj\Debug\ConsoleSwitchcaseapp.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\ConsoleSwitchcaseapp\ConsoleSwitchcaseapp\obj\Debug\ConsoleSwitchcaseapp.exe
+C:\NBHtraining\dotnet day1 project\ConsoleSwitchcaseapp\ConsoleSwitchcaseapp\obj\Debug\ConsoleSwitchcaseapp.pdb

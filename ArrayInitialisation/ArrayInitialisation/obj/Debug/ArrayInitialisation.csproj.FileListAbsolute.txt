@@ -1,0 +1,7 @@
+C:\NBHtraining\dotnet day1 project\ArrayInitialisation\ArrayInitialisation\bin\Debug\ArrayInitialisation.exe.config
+C:\NBHtraining\dotnet day1 project\ArrayInitialisation\ArrayInitialisation\bin\Debug\ArrayInitialisation.exe
+C:\NBHtraining\dotnet day1 project\ArrayInitialisation\ArrayInitialisation\bin\Debug\ArrayInitialisation.pdb
+C:\NBHtraining\dotnet day1 project\ArrayInitialisation\ArrayInitialisation\obj\Debug\ArrayInitialisation.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\ArrayInitialisation\ArrayInitialisation\obj\Debug\ArrayInitialisation.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\ArrayInitialisation\ArrayInitialisation\obj\Debug\ArrayInitialisation.exe
+C:\NBHtraining\dotnet day1 project\ArrayInitialisation\ArrayInitialisation\obj\Debug\ArrayInitialisation.pdb

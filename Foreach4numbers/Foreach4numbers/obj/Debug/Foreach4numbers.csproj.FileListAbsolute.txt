@@ -1,0 +1,7 @@
+C:\NBHtraining\dotnet day1 project\Foreach4numbers\Foreach4numbers\bin\Debug\Foreach4numbers.exe.config
+C:\NBHtraining\dotnet day1 project\Foreach4numbers\Foreach4numbers\bin\Debug\Foreach4numbers.exe
+C:\NBHtraining\dotnet day1 project\Foreach4numbers\Foreach4numbers\bin\Debug\Foreach4numbers.pdb
+C:\NBHtraining\dotnet day1 project\Foreach4numbers\Foreach4numbers\obj\Debug\Foreach4numbers.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Foreach4numbers\Foreach4numbers\obj\Debug\Foreach4numbers.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Foreach4numbers\Foreach4numbers\obj\Debug\Foreach4numbers.exe
+C:\NBHtraining\dotnet day1 project\Foreach4numbers\Foreach4numbers\obj\Debug\Foreach4numbers.pdb
