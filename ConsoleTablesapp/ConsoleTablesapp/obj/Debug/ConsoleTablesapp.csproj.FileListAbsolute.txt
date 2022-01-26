@@ -1,0 +1,7 @@
+C:\NBHtraining\dotnet day1 project\ConsoleTablesapp\ConsoleTablesapp\bin\Debug\ConsoleTablesapp.exe.config
+C:\NBHtraining\dotnet day1 project\ConsoleTablesapp\ConsoleTablesapp\bin\Debug\ConsoleTablesapp.exe
+C:\NBHtraining\dotnet day1 project\ConsoleTablesapp\ConsoleTablesapp\bin\Debug\ConsoleTablesapp.pdb
+C:\NBHtraining\dotnet day1 project\ConsoleTablesapp\ConsoleTablesapp\obj\Debug\ConsoleTablesapp.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\ConsoleTablesapp\ConsoleTablesapp\obj\Debug\ConsoleTablesapp.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\ConsoleTablesapp\ConsoleTablesapp\obj\Debug\ConsoleTablesapp.exe
+C:\NBHtraining\dotnet day1 project\ConsoleTablesapp\ConsoleTablesapp\obj\Debug\ConsoleTablesapp.pdb

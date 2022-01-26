@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\ConsoleFactorsapp\ConsoleFactorsapp\obj\Debug\ConsoleFactorsapp.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\ConsoleFactorsapp\ConsoleFactorsapp\obj\Debug\ConsoleFactorsapp.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\ConsoleFactorsapp\ConsoleFactorsapp\obj\Debug\ConsoleFactorsapp.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\ConsoleFactorsapp\ConsoleFactorsapp\bin\Debug\ConsoleFactorsapp.exe.config
+C:\NBHtraining\dotnet day1 project\ConsoleFactorsapp\ConsoleFactorsapp\bin\Debug\ConsoleFactorsapp.exe
+C:\NBHtraining\dotnet day1 project\ConsoleFactorsapp\ConsoleFactorsapp\bin\Debug\ConsoleFactorsapp.pdb
+C:\NBHtraining\dotnet day1 project\ConsoleFactorsapp\ConsoleFactorsapp\obj\Debug\ConsoleFactorsapp.exe
+C:\NBHtraining\dotnet day1 project\ConsoleFactorsapp\ConsoleFactorsapp\obj\Debug\ConsoleFactorsapp.pdb

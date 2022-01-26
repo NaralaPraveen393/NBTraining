@@ -1,0 +1,7 @@
+C:\Nbday1\dotnet day1 project\ConsoleFactorial\ConsoleFactorial\bin\Debug\ConsoleFactorial.exe.config
+C:\Nbday1\dotnet day1 project\ConsoleFactorial\ConsoleFactorial\bin\Debug\ConsoleFactorial.exe
+C:\Nbday1\dotnet day1 project\ConsoleFactorial\ConsoleFactorial\bin\Debug\ConsoleFactorial.pdb
+C:\Nbday1\dotnet day1 project\ConsoleFactorial\ConsoleFactorial\obj\Debug\ConsoleFactorial.csproj.SuggestedBindingRedirects.cache
+C:\Nbday1\dotnet day1 project\ConsoleFactorial\ConsoleFactorial\obj\Debug\ConsoleFactorial.csproj.CoreCompileInputs.cache
+C:\Nbday1\dotnet day1 project\ConsoleFactorial\ConsoleFactorial\obj\Debug\ConsoleFactorial.exe
+C:\Nbday1\dotnet day1 project\ConsoleFactorial\ConsoleFactorial\obj\Debug\ConsoleFactorial.pdb

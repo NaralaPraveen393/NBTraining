@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78016567-8aeb-44c5-bb9f-03b68153e655": {
+      "ProjectGuid": "78016567-8aeb-44c5-bb9f-03b68153e655",
+      "DisplayName": "ConsoleFactorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

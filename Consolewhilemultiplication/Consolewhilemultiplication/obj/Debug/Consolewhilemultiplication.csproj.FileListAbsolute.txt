@@ -1,0 +1,7 @@
+C:\NBHtraining\dotnet day1 project\Consolewhilemultiplication\Consolewhilemultiplication\bin\Debug\Consolewhilemultiplication.exe.config
+C:\NBHtraining\dotnet day1 project\Consolewhilemultiplication\Consolewhilemultiplication\bin\Debug\Consolewhilemultiplication.exe
+C:\NBHtraining\dotnet day1 project\Consolewhilemultiplication\Consolewhilemultiplication\bin\Debug\Consolewhilemultiplication.pdb
+C:\NBHtraining\dotnet day1 project\Consolewhilemultiplication\Consolewhilemultiplication\obj\Debug\Consolewhilemultiplication.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Consolewhilemultiplication\Consolewhilemultiplication\obj\Debug\Consolewhilemultiplication.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Consolewhilemultiplication\Consolewhilemultiplication\obj\Debug\Consolewhilemultiplication.exe
+C:\NBHtraining\dotnet day1 project\Consolewhilemultiplication\Consolewhilemultiplication\obj\Debug\Consolewhilemultiplication.pdb

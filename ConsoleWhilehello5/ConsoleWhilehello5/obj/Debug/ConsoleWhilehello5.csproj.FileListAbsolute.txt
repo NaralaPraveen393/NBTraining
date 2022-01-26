@@ -1,0 +1,7 @@
+C:\NBHtraining\dotnet day1 project\ConsoleWhilehello5\ConsoleWhilehello5\obj\Debug\ConsoleWhilehello5.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\ConsoleWhilehello5\ConsoleWhilehello5\obj\Debug\ConsoleWhilehello5.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\ConsoleWhilehello5\ConsoleWhilehello5\bin\Debug\ConsoleWhilehello5.exe.config
+C:\NBHtraining\dotnet day1 project\ConsoleWhilehello5\ConsoleWhilehello5\bin\Debug\ConsoleWhilehello5.exe
+C:\NBHtraining\dotnet day1 project\ConsoleWhilehello5\ConsoleWhilehello5\bin\Debug\ConsoleWhilehello5.pdb
+C:\NBHtraining\dotnet day1 project\ConsoleWhilehello5\ConsoleWhilehello5\obj\Debug\ConsoleWhilehello5.exe
+C:\NBHtraining\dotnet day1 project\ConsoleWhilehello5\ConsoleWhilehello5\obj\Debug\ConsoleWhilehello5.pdb
