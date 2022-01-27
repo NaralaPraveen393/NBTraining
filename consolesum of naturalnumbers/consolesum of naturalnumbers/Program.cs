@@ -20,6 +20,7 @@ namespace consolesum_of_naturalnumbers
             { sum = sum + i; }
             //print output
             Console.WriteLine(sum);
+
             Console.ReadLine();
         }
     }

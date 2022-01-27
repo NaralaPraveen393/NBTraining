@@ -6,3 +6,11 @@ C:\Nbday1\dotnet day1 project\consolesum of naturalnumbers\consolesum of natural
 C:\Nbday1\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\bin\Debug\consolesum of naturalnumbers.pdb
 C:\Nbday1\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\obj\Debug\consolesum of naturalnumbers.exe
 C:\Nbday1\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\obj\Debug\consolesum of naturalnumbers.pdb
+C:\NBHtraining\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\bin\Debug\consolesum of naturalnumbers.exe.config
+C:\NBHtraining\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\bin\Debug\consolesum of naturalnumbers.exe
+C:\NBHtraining\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\bin\Debug\consolesum of naturalnumbers.pdb
+C:\NBHtraining\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\obj\Debug\consolesum of naturalnumbers.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\obj\Debug\consolesum of naturalnumbers.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\obj\Debug\consolesum of naturalnumbers.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\obj\Debug\consolesum of naturalnumbers.exe
+C:\NBHtraining\dotnet day1 project\consolesum of naturalnumbers\consolesum of naturalnumbers\obj\Debug\consolesum of naturalnumbers.pdb
