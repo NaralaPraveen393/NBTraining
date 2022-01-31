@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Declaration of Arraylist\Declaration of Arraylist\bin\Debug\Declaration of Arraylist.exe.config
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Declaration of Arraylist\Declaration of Arraylist\bin\Debug\Declaration of Arraylist.exe
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Declaration of Arraylist\Declaration of Arraylist\bin\Debug\Declaration of Arraylist.pdb
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Declaration of Arraylist\Declaration of Arraylist\obj\Debug\Declaration of Arraylist.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Declaration of Arraylist\Declaration of Arraylist\obj\Debug\Declaration of Arraylist.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Declaration of Arraylist\Declaration of Arraylist\obj\Debug\Declaration of Arraylist.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Declaration of Arraylist\Declaration of Arraylist\obj\Debug\Declaration of Arraylist.exe
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Declaration of Arraylist\Declaration of Arraylist\obj\Debug\Declaration of Arraylist.pdb

@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Liststring\Liststring\bin\Debug\Liststring.exe.config
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Liststring\Liststring\bin\Debug\Liststring.exe
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Liststring\Liststring\bin\Debug\Liststring.pdb
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Liststring\Liststring\obj\Debug\Liststring.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Liststring\Liststring\obj\Debug\Liststring.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Liststring\Liststring\obj\Debug\Liststring.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Liststring\Liststring\obj\Debug\Liststring.exe
+C:\NBHtraining\dotnet day1 project\6th day morning Assignmet\Liststring\Liststring\obj\Debug\Liststring.pdb
