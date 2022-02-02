@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\7th day Morning Assignment\Day8Project1(Evennos)\Day8Project1(Evennos)\bin\Debug\Day8Project1(Evennos).exe.config
+C:\NBHtraining\dotnet day1 project\7th day Morning Assignment\Day8Project1(Evennos)\Day8Project1(Evennos)\bin\Debug\Day8Project1(Evennos).exe
+C:\NBHtraining\dotnet day1 project\7th day Morning Assignment\Day8Project1(Evennos)\Day8Project1(Evennos)\bin\Debug\Day8Project1(Evennos).pdb
+C:\NBHtraining\dotnet day1 project\7th day Morning Assignment\Day8Project1(Evennos)\Day8Project1(Evennos)\obj\Debug\Day8Project1(Evennos).csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\7th day Morning Assignment\Day8Project1(Evennos)\Day8Project1(Evennos)\obj\Debug\Day8Project1(Evennos).csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\7th day Morning Assignment\Day8Project1(Evennos)\Day8Project1(Evennos)\obj\Debug\Day8Project1(Evennos).csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\7th day Morning Assignment\Day8Project1(Evennos)\Day8Project1(Evennos)\obj\Debug\Day8Project1(Evennos).exe
+C:\NBHtraining\dotnet day1 project\7th day Morning Assignment\Day8Project1(Evennos)\Day8Project1(Evennos)\obj\Debug\Day8Project1(Evennos).pdb
