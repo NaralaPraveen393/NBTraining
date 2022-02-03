@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day9 Morning Assignments\Day9Project3\Day9Project3\bin\Debug\Day9Project3.exe.config
+C:\NBHtraining\dotnet day1 project\Day9 Morning Assignments\Day9Project3\Day9Project3\bin\Debug\Day9Project3.exe
+C:\NBHtraining\dotnet day1 project\Day9 Morning Assignments\Day9Project3\Day9Project3\bin\Debug\Day9Project3.pdb
+C:\NBHtraining\dotnet day1 project\Day9 Morning Assignments\Day9Project3\Day9Project3\obj\Debug\Day9Project3.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day9 Morning Assignments\Day9Project3\Day9Project3\obj\Debug\Day9Project3.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day9 Morning Assignments\Day9Project3\Day9Project3\obj\Debug\Day9Project3.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day9 Morning Assignments\Day9Project3\Day9Project3\obj\Debug\Day9Project3.exe
+C:\NBHtraining\dotnet day1 project\Day9 Morning Assignments\Day9Project3\Day9Project3\obj\Debug\Day9Project3.pdb
