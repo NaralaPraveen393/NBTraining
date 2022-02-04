@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10singleinheritance\Day10singleinheritance\bin\Debug\Day10singleinheritance.exe.config
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10singleinheritance\Day10singleinheritance\bin\Debug\Day10singleinheritance.exe
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10singleinheritance\Day10singleinheritance\bin\Debug\Day10singleinheritance.pdb
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10singleinheritance\Day10singleinheritance\obj\Debug\Day10singleinheritance.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10singleinheritance\Day10singleinheritance\obj\Debug\Day10singleinheritance.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10singleinheritance\Day10singleinheritance\obj\Debug\Day10singleinheritance.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10singleinheritance\Day10singleinheritance\obj\Debug\Day10singleinheritance.exe
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10singleinheritance\Day10singleinheritance\obj\Debug\Day10singleinheritance.pdb

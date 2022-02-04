@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Multilevelinheritance\Day10Multilevelinheritance\bin\Debug\Day10Multilevelinheritance.exe.config
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Multilevelinheritance\Day10Multilevelinheritance\bin\Debug\Day10Multilevelinheritance.exe
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Multilevelinheritance\Day10Multilevelinheritance\bin\Debug\Day10Multilevelinheritance.pdb
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Multilevelinheritance\Day10Multilevelinheritance\obj\Debug\Day10Multilevelinheritance.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Multilevelinheritance\Day10Multilevelinheritance\obj\Debug\Day10Multilevelinheritance.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Multilevelinheritance\Day10Multilevelinheritance\obj\Debug\Day10Multilevelinheritance.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Multilevelinheritance\Day10Multilevelinheritance\obj\Debug\Day10Multilevelinheritance.exe
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Multilevelinheritance\Day10Multilevelinheritance\obj\Debug\Day10Multilevelinheritance.pdb

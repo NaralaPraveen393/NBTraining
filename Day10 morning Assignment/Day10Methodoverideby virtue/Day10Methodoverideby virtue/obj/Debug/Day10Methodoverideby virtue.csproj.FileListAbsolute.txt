@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Methodoverideby virtue\Day10Methodoverideby virtue\bin\Debug\Day10Methodoverideby virtue.exe.config
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Methodoverideby virtue\Day10Methodoverideby virtue\bin\Debug\Day10Methodoverideby virtue.exe
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Methodoverideby virtue\Day10Methodoverideby virtue\bin\Debug\Day10Methodoverideby virtue.pdb
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Methodoverideby virtue\Day10Methodoverideby virtue\obj\Debug\Day10Methodoverideby virtue.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Methodoverideby virtue\Day10Methodoverideby virtue\obj\Debug\Day10Methodoverideby virtue.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Methodoverideby virtue\Day10Methodoverideby virtue\obj\Debug\Day10Methodoverideby virtue.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Methodoverideby virtue\Day10Methodoverideby virtue\obj\Debug\Day10Methodoverideby virtue.exe
+C:\NBHtraining\dotnet day1 project\Day10 morning Assignment\Day10Methodoverideby virtue\Day10Methodoverideby virtue\obj\Debug\Day10Methodoverideby virtue.pdb
