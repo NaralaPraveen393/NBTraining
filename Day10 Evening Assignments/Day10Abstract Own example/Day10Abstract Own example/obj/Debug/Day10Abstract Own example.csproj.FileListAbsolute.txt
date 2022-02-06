@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day10 Evening Assignments\Day10Abstract Own example\Day10Abstract Own example\bin\Debug\Day10Abstract Own example.exe.config
+C:\NBHtraining\dotnet day1 project\Day10 Evening Assignments\Day10Abstract Own example\Day10Abstract Own example\bin\Debug\Day10Abstract Own example.exe
+C:\NBHtraining\dotnet day1 project\Day10 Evening Assignments\Day10Abstract Own example\Day10Abstract Own example\bin\Debug\Day10Abstract Own example.pdb
+C:\NBHtraining\dotnet day1 project\Day10 Evening Assignments\Day10Abstract Own example\Day10Abstract Own example\obj\Debug\Day10Abstract Own example.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day10 Evening Assignments\Day10Abstract Own example\Day10Abstract Own example\obj\Debug\Day10Abstract Own example.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day10 Evening Assignments\Day10Abstract Own example\Day10Abstract Own example\obj\Debug\Day10Abstract Own example.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day10 Evening Assignments\Day10Abstract Own example\Day10Abstract Own example\obj\Debug\Day10Abstract Own example.exe
+C:\NBHtraining\dotnet day1 project\Day10 Evening Assignments\Day10Abstract Own example\Day10Abstract Own example\obj\Debug\Day10Abstract Own example.pdb

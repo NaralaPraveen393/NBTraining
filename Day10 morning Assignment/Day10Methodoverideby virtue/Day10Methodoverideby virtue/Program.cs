@@ -8,7 +8,7 @@ namespace Day10Methodoverriding
 {
     //****************************************************************\\
     //Author:Narala Praveen
-    //Purpose:To do method overriding using new key word
+    //Purpose:To do method overriding using Virtue and override keyword
     //*******************************************************************\\
 
     class SwiggyMessege
