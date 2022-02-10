@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2dimensional Array\2dimensional Array\bin\Debug\2dimensional Array.exe.config
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2dimensional Array\2dimensional Array\bin\Debug\2dimensional Array.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2dimensional Array\2dimensional Array\bin\Debug\2dimensional Array.pdb
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2dimensional Array\2dimensional Array\obj\Debug\2dimensional Array.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2dimensional Array\2dimensional Array\obj\Debug\2dimensional Array.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2dimensional Array\2dimensional Array\obj\Debug\2dimensional Array.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2dimensional Array\2dimensional Array\obj\Debug\2dimensional Array.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2dimensional Array\2dimensional Array\obj\Debug\2dimensional Array.pdb

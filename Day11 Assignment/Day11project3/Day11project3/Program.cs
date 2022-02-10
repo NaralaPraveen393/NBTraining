@@ -9,6 +9,9 @@ namespace Day11project3
     //Purpose:Employee class with only properties.
     class Employee
     {
+        
+        
+
         public int Id
         {
             get
@@ -27,20 +30,14 @@ namespace Day11project3
         }
         public string Designation
         {
+            get { return Designation; }
             set { Designation = value; }
         }
 
-
-            
-        
         public int Salary
         {
-            get
-            {
-                Salary = (Designation == "S") ? 30000 : 500000;
-                return Salary;
-            }
-        }
+            get { return (Designation == "S") ? 30000 : 500000; }
+         }
     }
     internal class Program
     {

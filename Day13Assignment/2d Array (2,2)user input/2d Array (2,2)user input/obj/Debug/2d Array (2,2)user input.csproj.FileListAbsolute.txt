@@ -1,0 +1,7 @@
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2d Array (2,2)user input\2d Array (2,2)user input\bin\Debug\2d Array (2,2)user input.exe.config
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2d Array (2,2)user input\2d Array (2,2)user input\bin\Debug\2d Array (2,2)user input.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2d Array (2,2)user input\2d Array (2,2)user input\bin\Debug\2d Array (2,2)user input.pdb
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2d Array (2,2)user input\2d Array (2,2)user input\obj\Debug\2d Array (2,2)user input.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2d Array (2,2)user input\2d Array (2,2)user input\obj\Debug\2d Array (2,2)user input.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2d Array (2,2)user input\2d Array (2,2)user input\obj\Debug\2d Array (2,2)user input.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2d Array (2,2)user input\2d Array (2,2)user input\obj\Debug\2d Array (2,2)user input.pdb

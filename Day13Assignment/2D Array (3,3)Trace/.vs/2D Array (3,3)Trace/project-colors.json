@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad4a5d4b-890a-459b-9aad-644cd223f8bb": {
+      "ProjectGuid": "ad4a5d4b-890a-459b-9aad-644cd223f8bb",
+      "DisplayName": "2D Array (3,3)Trace",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2D Array (3,3)Trace\2D Array (3,3)Trace\bin\Debug\2D Array (3,3)Trace.exe.config
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2D Array (3,3)Trace\2D Array (3,3)Trace\bin\Debug\2D Array (3,3)Trace.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2D Array (3,3)Trace\2D Array (3,3)Trace\bin\Debug\2D Array (3,3)Trace.pdb
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2D Array (3,3)Trace\2D Array (3,3)Trace\obj\Debug\2D Array (3,3)Trace.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2D Array (3,3)Trace\2D Array (3,3)Trace\obj\Debug\2D Array (3,3)Trace.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2D Array (3,3)Trace\2D Array (3,3)Trace\obj\Debug\2D Array (3,3)Trace.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2D Array (3,3)Trace\2D Array (3,3)Trace\obj\Debug\2D Array (3,3)Trace.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2D Array (3,3)Trace\2D Array (3,3)Trace\obj\Debug\2D Array (3,3)Trace.pdb

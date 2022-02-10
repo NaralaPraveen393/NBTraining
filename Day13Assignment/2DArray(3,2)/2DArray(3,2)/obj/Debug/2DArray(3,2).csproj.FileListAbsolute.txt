@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2DArray(3,2)\2DArray(3,2)\bin\Debug\2DArray(3,2).exe.config
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2DArray(3,2)\2DArray(3,2)\bin\Debug\2DArray(3,2).exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2DArray(3,2)\2DArray(3,2)\bin\Debug\2DArray(3,2).pdb
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2DArray(3,2)\2DArray(3,2)\obj\Debug\2DArray(3,2).csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2DArray(3,2)\2DArray(3,2)\obj\Debug\2DArray(3,2).csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2DArray(3,2)\2DArray(3,2)\obj\Debug\2DArray(3,2).csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2DArray(3,2)\2DArray(3,2)\obj\Debug\2DArray(3,2).exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\2DArray(3,2)\2DArray(3,2)\obj\Debug\2DArray(3,2).pdb

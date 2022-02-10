@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day13Assignment\StackProgramm\StackProgramm\bin\Debug\StackProgramm.exe.config
+C:\NBHtraining\dotnet day1 project\Day13Assignment\StackProgramm\StackProgramm\bin\Debug\StackProgramm.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\StackProgramm\StackProgramm\bin\Debug\StackProgramm.pdb
+C:\NBHtraining\dotnet day1 project\Day13Assignment\StackProgramm\StackProgramm\obj\Debug\StackProgramm.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\StackProgramm\StackProgramm\obj\Debug\StackProgramm.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\StackProgramm\StackProgramm\obj\Debug\StackProgramm.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\StackProgramm\StackProgramm\obj\Debug\StackProgramm.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\StackProgramm\StackProgramm\obj\Debug\StackProgramm.pdb

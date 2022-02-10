@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day13Assignment\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\NBHtraining\dotnet day1 project\Day13Assignment\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\NBHtraining\dotnet day1 project\Day13Assignment\Recursion\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\Recursion\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\Recursion\Recursion\obj\Debug\Recursion.pdb

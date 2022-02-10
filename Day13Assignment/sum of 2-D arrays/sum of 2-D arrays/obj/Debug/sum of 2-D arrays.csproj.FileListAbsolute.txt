@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day13Assignment\sum of 2-D arrays\sum of 2-D arrays\obj\Debug\sum of 2-D arrays.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\sum of 2-D arrays\sum of 2-D arrays\obj\Debug\sum of 2-D arrays.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\sum of 2-D arrays\sum of 2-D arrays\obj\Debug\sum of 2-D arrays.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\sum of 2-D arrays\sum of 2-D arrays\bin\Debug\sum of 2-D arrays.exe.config
+C:\NBHtraining\dotnet day1 project\Day13Assignment\sum of 2-D arrays\sum of 2-D arrays\bin\Debug\sum of 2-D arrays.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\sum of 2-D arrays\sum of 2-D arrays\bin\Debug\sum of 2-D arrays.pdb
+C:\NBHtraining\dotnet day1 project\Day13Assignment\sum of 2-D arrays\sum of 2-D arrays\obj\Debug\sum of 2-D arrays.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\sum of 2-D arrays\sum of 2-D arrays\obj\Debug\sum of 2-D arrays.pdb

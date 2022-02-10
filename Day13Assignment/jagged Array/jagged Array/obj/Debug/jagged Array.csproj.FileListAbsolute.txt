@@ -1,0 +1,8 @@
+C:\NBHtraining\dotnet day1 project\Day13Assignment\jagged Array\jagged Array\bin\Debug\jagged Array.exe.config
+C:\NBHtraining\dotnet day1 project\Day13Assignment\jagged Array\jagged Array\bin\Debug\jagged Array.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\jagged Array\jagged Array\bin\Debug\jagged Array.pdb
+C:\NBHtraining\dotnet day1 project\Day13Assignment\jagged Array\jagged Array\obj\Debug\jagged Array.csproj.AssemblyReference.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\jagged Array\jagged Array\obj\Debug\jagged Array.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\jagged Array\jagged Array\obj\Debug\jagged Array.csproj.CoreCompileInputs.cache
+C:\NBHtraining\dotnet day1 project\Day13Assignment\jagged Array\jagged Array\obj\Debug\jagged Array.exe
+C:\NBHtraining\dotnet day1 project\Day13Assignment\jagged Array\jagged Array\obj\Debug\jagged Array.pdb
