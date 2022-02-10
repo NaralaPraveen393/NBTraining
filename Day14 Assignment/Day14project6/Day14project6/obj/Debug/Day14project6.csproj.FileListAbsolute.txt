@@ -1,0 +1,7 @@
+C:\NBHtraining\Day14 Assignment\Day14project6\Day14project6\bin\Debug\Day14project6.exe.config
+C:\NBHtraining\Day14 Assignment\Day14project6\Day14project6\bin\Debug\Day14project6.exe
+C:\NBHtraining\Day14 Assignment\Day14project6\Day14project6\bin\Debug\Day14project6.pdb
+C:\NBHtraining\Day14 Assignment\Day14project6\Day14project6\obj\Debug\Day14project6.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day14 Assignment\Day14project6\Day14project6\obj\Debug\Day14project6.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day14 Assignment\Day14project6\Day14project6\obj\Debug\Day14project6.exe
+C:\NBHtraining\Day14 Assignment\Day14project6\Day14project6\obj\Debug\Day14project6.pdb
