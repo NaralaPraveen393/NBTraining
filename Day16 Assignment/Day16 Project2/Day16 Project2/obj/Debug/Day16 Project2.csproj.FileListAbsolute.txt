@@ -1,0 +1,7 @@
+C:\NBHtraining\Day16 Assignment\Day16 Project2\Day16 Project2\bin\Debug\Day16 Project2.exe.config
+C:\NBHtraining\Day16 Assignment\Day16 Project2\Day16 Project2\bin\Debug\Day16 Project2.exe
+C:\NBHtraining\Day16 Assignment\Day16 Project2\Day16 Project2\bin\Debug\Day16 Project2.pdb
+C:\NBHtraining\Day16 Assignment\Day16 Project2\Day16 Project2\obj\Debug\Day16 Project2.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day16 Assignment\Day16 Project2\Day16 Project2\obj\Debug\Day16 Project2.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day16 Assignment\Day16 Project2\Day16 Project2\obj\Debug\Day16 Project2.exe
+C:\NBHtraining\Day16 Assignment\Day16 Project2\Day16 Project2\obj\Debug\Day16 Project2.pdb
