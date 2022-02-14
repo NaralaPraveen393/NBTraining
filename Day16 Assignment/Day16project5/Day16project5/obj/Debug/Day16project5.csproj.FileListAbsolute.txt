@@ -1,0 +1,10 @@
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\bin\Debug\Day16project5.exe.config
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\bin\Debug\Day16project5.exe
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\bin\Debug\Day16project5.pdb
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\bin\Debug\PraveenLibrary.dll
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\obj\Debug\Day16project5.csproj.AssemblyReference.cache
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\obj\Debug\Day16project5.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\obj\Debug\Day16project5.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\obj\Debug\Day16project5.csproj.CopyComplete
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\obj\Debug\Day16project5.exe
+C:\NBHtraining\Day16 Assignment\Day16project5\Day16project5\obj\Debug\Day16project5.pdb
