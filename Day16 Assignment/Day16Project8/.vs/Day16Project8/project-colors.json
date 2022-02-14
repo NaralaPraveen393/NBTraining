@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c3408fe-83ba-4946-b1be-1f3c56901b80": {
+      "ProjectGuid": "2c3408fe-83ba-4946-b1be-1f3c56901b80",
+      "DisplayName": "Day16Project8",
+      "ColorIndex": 0
+    },
+    "b224f265-fec8-4f68-9044-6cae720b85bb": {
+      "ProjectGuid": "b224f265-fec8-4f68-9044-6cae720b85bb",
+      "DisplayName": "praveenLibrary",
+      "ColorIndex": 1
+    },
+    "a65fd2f7-ec43-41eb-9372-9d2ff1c59b61": {
+      "ProjectGuid": "a65fd2f7-ec43-41eb-9372-9d2ff1c59b61",
+      "DisplayName": "publiclibrary",
+      "ColorIndex": 2
+    },
+    "a39992e6-6ffe-4b60-85cc-308f0c073182": {
+      "ProjectGuid": "a39992e6-6ffe-4b60-85cc-308f0c073182",
+      "DisplayName": "naralawindows app",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

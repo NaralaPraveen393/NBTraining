@@ -1,0 +1,13 @@
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\bin\Debug\Day16Project8.exe.config
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\bin\Debug\Day16Project8.exe
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\bin\Debug\Day16Project8.pdb
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\obj\Debug\Day16Project8.csproj.AssemblyReference.cache
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\obj\Debug\Day16Project8.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\obj\Debug\Day16Project8.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\obj\Debug\Day16Project8.exe
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\obj\Debug\Day16Project8.pdb
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\bin\Debug\praveenLibrary.dll
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\bin\Debug\publiclibrary.dll
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\bin\Debug\praveenLibrary.pdb
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\bin\Debug\publiclibrary.pdb
+C:\NBHtraining\Day16 Assignment\Day16Project8\Day16Project8\obj\Debug\Day16Project8.csproj.CopyComplete

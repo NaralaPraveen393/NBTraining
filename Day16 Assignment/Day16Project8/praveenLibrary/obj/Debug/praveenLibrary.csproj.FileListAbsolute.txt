@@ -1,0 +1,5 @@
+C:\NBHtraining\Day16 Assignment\Day16Project8\praveenLibrary\bin\Debug\praveenLibrary.dll
+C:\NBHtraining\Day16 Assignment\Day16Project8\praveenLibrary\bin\Debug\praveenLibrary.pdb
+C:\NBHtraining\Day16 Assignment\Day16Project8\praveenLibrary\obj\Debug\praveenLibrary.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day16 Assignment\Day16Project8\praveenLibrary\obj\Debug\praveenLibrary.dll
+C:\NBHtraining\Day16 Assignment\Day16Project8\praveenLibrary\obj\Debug\praveenLibrary.pdb

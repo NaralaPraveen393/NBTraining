@@ -1,0 +1,14 @@
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\bin\Debug\naralawindows app.exe.config
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\bin\Debug\naralawindows app.exe
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\bin\Debug\naralawindows app.pdb
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\bin\Debug\praveenLibrary.dll
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\bin\Debug\praveenLibrary.pdb
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\obj\Debug\naralawindows app.csproj.AssemblyReference.cache
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\obj\Debug\naralawindows app.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\obj\Debug\naralawindows_app.Form1.resources
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\obj\Debug\naralawindows_app.Properties.Resources.resources
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\obj\Debug\naralawindows app.csproj.GenerateResource.cache
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\obj\Debug\naralawindows app.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\obj\Debug\naralawindows app.csproj.CopyComplete
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\obj\Debug\naralawindows app.exe
+C:\NBHtraining\Day16 Assignment\Day16Project8\naralawindows app\obj\Debug\naralawindows app.pdb
