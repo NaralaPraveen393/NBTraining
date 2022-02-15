@@ -1,0 +1,2 @@
+C:\NBHtraining\Day17 Assignment\Day17Project1\PraveenLibrary\obj\Debug\PraveenLibrary.csproj.AssemblyReference.cache
+C:\NBHtraining\Day17 Assignment\Day17Project1\PraveenLibrary\obj\Debug\PraveenLibrary.csproj.CoreCompileInputs.cache

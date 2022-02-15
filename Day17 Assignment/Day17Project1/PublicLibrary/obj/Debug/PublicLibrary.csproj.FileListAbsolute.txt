@@ -1,0 +1,5 @@
+C:\NBHtraining\Day17 Assignment\Day17Project1\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day17 Assignment\Day17Project1\PublicLibrary\bin\Debug\PublicLibrary.dll
+C:\NBHtraining\Day17 Assignment\Day17Project1\PublicLibrary\bin\Debug\PublicLibrary.pdb
+C:\NBHtraining\Day17 Assignment\Day17Project1\PublicLibrary\obj\Debug\PublicLibrary.dll
+C:\NBHtraining\Day17 Assignment\Day17Project1\PublicLibrary\obj\Debug\PublicLibrary.pdb
