@@ -1,0 +1,56 @@
+<Products>
+  <Product1>
+    <ID>101</ID>
+    <Name>Shoes</Name>
+    <Price>2000</Price>
+ </Product1>
+ <Product2>
+    <ID>102</ID>
+    <Name>Socks</Name>
+    <Price>2000</Price>
+ </Product2>
+ <Product3>
+    <ID>103</ID>
+    <Name>Belt</Name>
+    <Price>1500</Price>
+  </Product3>
+  <Product4>
+    <ID>104</ID>
+    <Name>Watch</Name>
+    <Price>2500</Price>
+   </Product4>
+   <Product5>
+    <ID>105</ID>
+    <Name>Hat</Name>
+    <Price>2500</Price>
+   </Product5>
+   <Product6>
+    <ID>106</ID>
+    <Name>Mask</Name>
+    <Price>600</Price>
+   </Product6>
+   <Product7>
+    <ID>107</ID>
+    <Name>EarPhones</Name>
+    <Price>2500</Price>
+   </Product7>
+   <Product8>
+    <ID>108</ID>
+    <Name>Laptop</Name>
+    <Price>500000</Price>
+   </Product8>
+   <Product9>
+    <ID>109</ID>
+    <Name>Mouse</Name>
+    <Price>2500</Price>
+   </Product9>
+   <Product10>
+    <ID>110</ID>
+    <Name>Chair</Name>
+    <Price>5000</Price>
+   </Product10>
+</Products>
+
+
+
+
