@@ -1,0 +1,11 @@
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\bin\Debug\Day8Project6.exe.config
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\bin\Debug\Day8Project6.exe
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\bin\Debug\Day8Project6.pdb
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\obj\Debug\Day8Project6.csproj.AssemblyReference.cache
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\obj\Debug\Day8Project6.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\obj\Debug\Day8Project6.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\obj\Debug\Day8Project6.exe
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\obj\Debug\Day8Project6.pdb
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\bin\Debug\Maths.dll
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\bin\Debug\Maths.pdb
+C:\NBHtraining\Day18 Assignment\Day8Project6\Day8Project6\obj\Debug\Day8Project6.csproj.CopyComplete
