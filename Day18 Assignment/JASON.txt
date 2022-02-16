@@ -1,0 +1,54 @@
+{
+   "Product1": [
+      {
+         "@ID": "101",
+         "@Name": "Shoes",
+         "@Price": "2500"
+      },
+      {
+         "@ID": "105",
+         "@Name": "Socks",
+         "@Price": "600"
+      },
+      {
+         "@ID": "106",
+         "@Name": "Laptop",
+         "@Price": "50000"
+      },
+      {
+         "@ID": "107",
+         "@Name": "Mouse",
+         "@Price": "2500"
+      },
+      {
+         "@ID": "108",
+         "@Name": "Bag",
+         "@Price": "4500"
+      },
+      {
+         "@ID": "109",
+         "@Name": "Chair",
+         "@Price": "8000"
+      },
+      {
+         "@ID": "110",
+         "@Name": "Table",
+         "@Price": "10000"
+      }
+   ],
+   "Product2": {
+      "@ID": "102",
+      "@Name": "Hat",
+      "@Price": "1500"
+   },
+   "Product3": {
+      "@ID": "103",
+      "@Name": "Watch",
+      "@Price": "3000"
+   },
+   "Product4": {
+      "@ID": "104",
+      "@Name": "Mask",
+      "@Price": "1200"
+   }
+}
