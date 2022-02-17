@@ -1,0 +1,8 @@
+C:\NBHtraining\Day19 Assignment\Day19project1\Day19project1\bin\Debug\Day19project1.exe.config
+C:\NBHtraining\Day19 Assignment\Day19project1\Day19project1\bin\Debug\Day19project1.exe
+C:\NBHtraining\Day19 Assignment\Day19project1\Day19project1\bin\Debug\Day19project1.pdb
+C:\NBHtraining\Day19 Assignment\Day19project1\Day19project1\obj\Debug\Day19project1.csproj.AssemblyReference.cache
+C:\NBHtraining\Day19 Assignment\Day19project1\Day19project1\obj\Debug\Day19project1.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day19 Assignment\Day19project1\Day19project1\obj\Debug\Day19project1.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day19 Assignment\Day19project1\Day19project1\obj\Debug\Day19project1.exe
+C:\NBHtraining\Day19 Assignment\Day19project1\Day19project1\obj\Debug\Day19project1.pdb
