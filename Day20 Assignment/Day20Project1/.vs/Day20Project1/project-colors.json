@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "979bbb69-aa41-41f1-a2ee-1f9ffe0587dd": {
+      "ProjectGuid": "979bbb69-aa41-41f1-a2ee-1f9ffe0587dd",
+      "DisplayName": "Methodscope",
+      "ColorIndex": 0
+    },
+    "ed2ff033-75c4-4e21-acc1-2f6b76d6fe39": {
+      "ProjectGuid": "ed2ff033-75c4-4e21-acc1-2f6b76d6fe39",
+      "DisplayName": "Day20Project1",
+      "ColorIndex": 1
+    },
+    "3d076b43-5177-4035-88cc-a16312749cda": {
+      "ProjectGuid": "3d076b43-5177-4035-88cc-a16312749cda",
+      "DisplayName": "BlockleveScope",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

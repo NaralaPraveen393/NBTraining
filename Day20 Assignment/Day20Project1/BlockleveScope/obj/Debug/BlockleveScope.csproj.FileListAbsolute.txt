@@ -1,0 +1,8 @@
+C:\NBHtraining\Day20 Assignment\Day20Project1\BlockleveScope\bin\Debug\BlockleveScope.exe.config
+C:\NBHtraining\Day20 Assignment\Day20Project1\BlockleveScope\bin\Debug\BlockleveScope.exe
+C:\NBHtraining\Day20 Assignment\Day20Project1\BlockleveScope\bin\Debug\BlockleveScope.pdb
+C:\NBHtraining\Day20 Assignment\Day20Project1\BlockleveScope\obj\Debug\BlockleveScope.csproj.AssemblyReference.cache
+C:\NBHtraining\Day20 Assignment\Day20Project1\BlockleveScope\obj\Debug\BlockleveScope.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day20 Assignment\Day20Project1\BlockleveScope\obj\Debug\BlockleveScope.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day20 Assignment\Day20Project1\BlockleveScope\obj\Debug\BlockleveScope.exe
+C:\NBHtraining\Day20 Assignment\Day20Project1\BlockleveScope\obj\Debug\BlockleveScope.pdb
