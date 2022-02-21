@@ -1,0 +1,8 @@
+C:\NBHtraining\Day21 Assignment\MyClintApp\MyClintApp\bin\Debug\MyClintApp.exe.config
+C:\NBHtraining\Day21 Assignment\MyClintApp\MyClintApp\bin\Debug\MyClintApp.exe
+C:\NBHtraining\Day21 Assignment\MyClintApp\MyClintApp\bin\Debug\MyClintApp.pdb
+C:\NBHtraining\Day21 Assignment\MyClintApp\MyClintApp\obj\Debug\MyClintApp.csproj.AssemblyReference.cache
+C:\NBHtraining\Day21 Assignment\MyClintApp\MyClintApp\obj\Debug\MyClintApp.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day21 Assignment\MyClintApp\MyClintApp\obj\Debug\MyClintApp.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day21 Assignment\MyClintApp\MyClintApp\obj\Debug\MyClintApp.exe
+C:\NBHtraining\Day21 Assignment\MyClintApp\MyClintApp\obj\Debug\MyClintApp.pdb

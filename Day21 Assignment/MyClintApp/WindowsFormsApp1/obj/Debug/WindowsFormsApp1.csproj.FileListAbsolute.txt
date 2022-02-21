@@ -1,0 +1,11 @@
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\NBHtraining\Day21 Assignment\MyClintApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
