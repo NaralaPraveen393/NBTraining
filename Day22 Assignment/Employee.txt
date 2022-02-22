@@ -1,0 +1,8 @@
+101,Narala Praveen,25000,25
+102,Ande Manohar,35000,35
+103,Ram Charan,45000,45
+104,Vinay,55000,55
+105,Sai ram,58000,58
+106,Ramraj,28000,28
+107,Prasad,39000,32
+108,Sai prasad,36000,28
