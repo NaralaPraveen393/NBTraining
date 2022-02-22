@@ -1,0 +1,13 @@
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\bin\Debug\EmployeeManagementApplication.exe.config
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\bin\Debug\EmployeeManagementApplication.exe
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\bin\Debug\EmployeeManagementApplication.pdb
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\bin\Debug\BusinessLogicLayer.dll
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\bin\Debug\DataAccessLayer.dll
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\bin\Debug\BusinessLogicLayer.pdb
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\bin\Debug\DataAccessLayer.pdb
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.csproj.AssemblyReference.cache
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.csproj.SuggestedBindingRedirects.cache
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.csproj.CoreCompileInputs.cache
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.csproj.CopyComplete
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.exe
+C:\NBHtraining\Day21 Assignment\PraveenFinalProject\EmployeeManagementApplication\obj\Debug\EmployeeManagementApplication.pdb
